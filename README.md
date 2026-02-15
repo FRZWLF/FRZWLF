@@ -1,4 +1,3 @@
-<!-- Custom Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:a3e635&height=200&section=header&text=Rico%20Richter&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
@@ -10,15 +9,6 @@ Software engineer working on AI agents, computer vision, and frontend systems. C
 **Current Role:** AI Engineer @ Intershop Communications<br>
 **Focus Areas:** AI Agent Development • Computer Vision • Frontend Architecture<br>
 **Education:** Master Computer Science | B.Sc. Business Information Systems (1.3)
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rico-richter-492258293)
-[![Portfolio](https://img.shields.io/badge/Portfolio-34d399?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ricorichter.com)
-
-</div>
-
----
 
 ## Private Projects
 
@@ -129,20 +119,12 @@ Thesis: _Evaluierung von Computer Vision Modellierungsansätzen zur präzisen Tr
 
 ## GitHub Stats
 
-### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FRZWLF&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
 
-### 📊 Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRZWLF&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRZWLF&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRZWLF&layout=compact&theme=dark&hide_border=true"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FRZWLF&layout=compact&theme=dark&hide_border=true)
 
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FRZWLF/FRZWLF/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FRZWLF&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+
 </div>
