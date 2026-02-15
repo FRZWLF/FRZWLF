@@ -17,7 +17,7 @@ Software engineer working on AI agents, computer vision, and frontend systems. C
 | **Portfolio**                       | Personal portfolio website and project showcase                                                                                                     | Angular, TypeScript, HTML, CSS           | Feb 2026     |
 | **Intershop Copilot for Merchants** | Chat-based AI agent platform for merchant backoffice automation                                                                                     | Angular, Flowise, Azure Services, Python | Production   |
 | **AISQD-Aiko**                      | AI assistant + table tennis league manager for Discord. Daily AI news aggregation, Tavily-powered web search, NLP match recording, Elo rankings     | TypeScript, Prisma, Discord.js, Docker   | Feb 2026     |
-| **Lumos** (Frontend + Backend)      | Full-privacy local AI assistant with voice control. Smart home automation, music playback, future health center with fitness device API integration | Kotlin, Python                           | Nov 2025     |
+| **Lumos**                           | Full-privacy local AI assistant with voice control. Smart home automation, music playback, future health center with fitness device API integration | Kotlin, Python                           | Nov 2025     |
 | **Dart Scoring System**             | Camera-based dart scoring system with deep learning                                                                                                 | YOLOv11, Python, OpenCV, HTML            | Feb 2025     |
 | **Python Course**                   | Educational Python materials and exercises                                                                                                          | Jupyter Notebook                         | Oct 2024     |
 
@@ -121,10 +121,10 @@ Thesis: _Evaluierung von Computer Vision Modellierungsansätzen zur präzisen Tr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRZWLF&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=FRZWLF&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FRZWLF&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRZWLF&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FRZWLF&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=FRZWLF&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
